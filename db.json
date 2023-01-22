@@ -1,11 +1,15 @@
 {
       "produtos": [
-        { "id": 1, "nome": "Azul", "qtdMax": "", "qtdMin": "", "codigoProduto": "123", "departamento": "1" },
-        { "id": 2, "nome": "Azul", "qtdMax": "", "qtdMin": "" },
-        { "id": 3, "nome": "Azul", "qtdMax": "", "qtdMin": "" },
-        { "id": 4, "nome": "Azul", "qtdMax": "", "qtdMin": "" },
-        { "id": 5, "nome": "Azul", "qtdMax": "", "qtdMin": "" },
-        { "id": 6, "nome": "Azul", "qtdMax": "", "qtdMin": "" }
+        { "id": 1, "nome": "Azul", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 1, "idGenero": 1, "idTamanho": 1, "idCor": 1 },
+        { "id": 1, "nome": "Azul", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 1, "idGenero": 1, "idTamanho": 1, "idCor": 1 },
+        { "id": 1, "nome": "Azul", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 1, "idGenero": 1, "idTamanho": 1, "idCor": 1 },
+        { "id": 1, "nome": "Azul", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 1, "idGenero": 1, "idTamanho": 1, "idCor": 1 },
+        { "id": 1, "nome": "Azul", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 1, "idGenero": 1, "idTamanho": 1, "idCor": 1 },
+        { "id": 1, "nome": "Azul", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 1, "idGenero": 1, "idTamanho": 1, "idCor": 1 },
+        { "id": 1, "nome": "Azul", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 1, "idGenero": 1, "idTamanho": 1, "idCor": 1 },
+        { "id": 1, "nome": "Azul", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 1, "idGenero": 1, "idTamanho": 1, "idCor": 1 },
+        { "id": 1, "nome": "Azul", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 1, "idGenero": 1, "idTamanho": 1, "idCor": 1 },
+        { "id": 1, "nome": "Azul", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 1, "idGenero": 1, "idTamanho": 1, "idCor": 1 }
       ],
 
       "tamanhoProdutos": [
