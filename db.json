@@ -9,42 +9,5 @@
         { "id": 7, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 5 },
         { "id": 8, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 5 },
         { "id": 9, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 5 }
-      ],
-
-      "tamanhoProdutos": [
-        { "produtoId": 1, "tamanhoId": 1 },
-        { "produtoId": 1, "tamanhoId": 2 },
-        { "produtoId": 1, "tamanhoId": 3 },
-        { "produtoId": 1, "tamanhoId": 4 },
-        { "produtoId": 2, "tamanhoId": 1 },
-        { "produtoId": 2, "tamanhoId": 2 },
-        { "produtoId": 2, "tamanhoId": 3 },
-        { "produtoId": 2, "tamanhoId": 4 },
-        { "produtoId": 3, "tamanhoId": 1 },
-        { "produtoId": 3, "tamanhoId": 2 },
-        { "produtoId": 3, "tamanhoId": 3 },
-        { "produtoId": 3, "tamanhoId": 4 }
-       ],
-
-       "generoProdutos": [
-        { "produtoId": 1, "generoId": 1 },
-        { "produtoId": 1, "generoId": 2 },
-        { "produtoId": 1, "generoId": 3 },
-        { "produtoId": 2, "generoId": 1 },
-        { "produtoId": 2, "generoId": 2 },
-        { "produtoId": 2, "generoId": 3 },
-        { "produtoId": 3, "generoId": 1 },
-        { "produtoId": 3, "generoId": 2 },
-        { "produtoId": 3, "generoId": 3 }
-       ],
-
-       "corProdutos": [
-        { "produtoId": 1, "corId": 1 },
-        { "produtoId": 1, "corId": 2 },
-        { "produtoId": 2, "corId": 3 },
-        { "produtoId": 2, "corId": 4 },
-        { "produtoId": 3, "corId": 5 },
-        { "produtoId": 3, "corId": 6 }
-       ]
-
+      ]
   }
