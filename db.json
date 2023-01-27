@@ -1,14 +1,14 @@
 {
       "produtos": [
         { "id": 1, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 1 },
-        { "id": 1, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 1 },
-        { "id": 1, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 1 },
-        { "id": 1, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 4 },
-        { "id": 1, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 4 },
-        { "id": 1, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 4 },
-        { "id": 1, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 5 },
-        { "id": 1, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 5 },
-        { "id": 1, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 5 }
+        { "id": 2, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 1 },
+        { "id": 3, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 1 },
+        { "id": 4, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 4 },
+        { "id": 5, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 4 },
+        { "id": 6, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 4 },
+        { "id": 7, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 5 },
+        { "id": 8, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 5 },
+        { "id": 9, "nome": "Nike beco 02", "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 5 }
       ],
 
       "tamanhoProdutos": [
