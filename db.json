@@ -1,13 +1,13 @@
 {
       "produtos": [
-        { "id": 1, "nome": "Nike beco 02", "quantidade": 18, "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 1 },
-        { "id": 2, "nome": "Nike beco 02", "quantidade": 20, "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 1 },
-        { "id": 3, "nome": "Nike beco 02", "quantidade": 15,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 1 },
-        { "id": 4, "nome": "Nike beco 02", "quantidade": 11,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 4 },
-        { "id": 5, "nome": "Nike beco 02", "quantidade": 20,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 4 },
-        { "id": 6, "nome": "Nike beco 02", "quantidade": 10,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 4 },
-        { "id": 7, "nome": "Nike beco 02", "quantidade": 8,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 5 },
-        { "id": 8, "nome": "Nike beco 02", "quantidade": 9,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 5 },
-        { "id": 9, "nome": "Nike beco 02", "quantidade": 12,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 5 }
+        { "id": 1, "nome": "Nike beco 02", "quantidade": 18, "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 1, "preco": 259.9, "quantidade": 10 },
+        { "id": 2, "nome": "Nike beco 02", "quantidade": 20, "qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 1, "preco": 249.9, "quantidade": 10 },
+        { "id": 3, "nome": "Nike beco 02", "quantidade": 15,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 1, "preco": 239.9, "quantidade": 10 },
+        { "id": 4, "nome": "Nike beco 02", "quantidade": 11,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 4, "preco": 269.9, "quantidade": 10 },
+        { "id": 5, "nome": "Nike beco 02", "quantidade": 20,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 4, "preco": 259.9, "quantidade": 10 },
+        { "id": 6, "nome": "Nike beco 02", "quantidade": 10,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 4, "preco": 249.9, "quantidade": 10 },
+        { "id": 7, "nome": "Nike beco 02", "quantidade": 8,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 11, "idCor": 5, "preco": 279.9, "quantidade": 10 },
+        { "id": 8, "nome": "Nike beco 02", "quantidade": 9,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 12, "idCor": 5, "preco": 269.9, "quantidade": 10},
+        { "id": 9, "nome": "Nike beco 02", "quantidade": 12,"qtdMax": 20, "qtdMin": 5, "idDepartamento": 4, "idGenero": 2, "idTamanho": 13, "idCor": 5, "preco": 259.9, "quantidade": 10}
       ]
   }
