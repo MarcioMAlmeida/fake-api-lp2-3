@@ -6,4 +6,7 @@
         { "id": 4, "titulo": "Voucher" },
         { "id": 5, "titulo": "Pix" }
       ],
+      
+      "vendas": [
+            { "id": 1, "idFuncionario": 1, "idCliente": 1, "idMetodoPagamento": 1, "idProduto": 1, "precoTotal": 259.90 }
   }
