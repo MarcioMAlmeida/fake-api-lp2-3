@@ -8,6 +8,12 @@
       ],
       
       "vendas": [
-            { "id": 1, "idFuncionario": 1, "idCliente": 1, "idMetodoPagamento": 1, "idProduto": 1, "valorTotal": 259.90, "dataVenda": "01-02-2023" }
+            { "id": 1, "idFuncionario": 1, "idCliente": 1, "idMetodoPagamento": 1, "idProduto": 1, "valorTotal": 259.90, "dataVenda": "01-02-2023" },
+            { "id": 2, "idFuncionario": 1, "idCliente": 1, "idMetodoPagamento": 2, "idProduto": 1, "valorTotal": 239.90, "dataVenda": "01-02-2023" },
+            { "id": 3, "idFuncionario": 2, "idCliente": 1, "idMetodoPagamento": 2, "idProduto": 1, "valorTotal": 379.80, "dataVenda": "01-02-2023" },
+            { "id": 4, "idFuncionario": 1, "idCliente": 1, "idMetodoPagamento": 2, "idProduto": 1, "valorTotal": 259.90, "dataVenda": "01-02-2023" },
+            { "id": 5, "idFuncionario": 3, "idCliente": 1, "idMetodoPagamento": 3, "idProduto": 1, "valorTotal": 379.80, "dataVenda": "01-02-2023" },
+            { "id": 6, "idFuncionario": 3, "idCliente": 1, "idMetodoPagamento": 5, "idProduto": 1, "valorTotal": 379.80, "dataVenda": "01-02-2023" },
+            { "id": 7, "idFuncionario": 4, "idCliente": 1, "idMetodoPagamento": 5, "idProduto": 1, "valorTotal": 259.90, "dataVenda": "01-02-2023" }
       ]
 }
