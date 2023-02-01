@@ -8,6 +8,6 @@
       ],
       
       "vendas": [
-            { "id": 1, "idFuncionario": 1, "idCliente": 1, "idMetodoPagamento": 1, "idProduto": 1, "precoTotal": 259.90 }
+            { "id": 1, "idFuncionario": 1, "idCliente": 1, "idMetodoPagamento": 1, "idProduto": 1, "valorTotal": 259.90, "dataVenda": "01-02-2023" }
       ]
 }
