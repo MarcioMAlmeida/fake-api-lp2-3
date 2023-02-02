@@ -15,5 +15,15 @@
             { "id": 5, "idFuncionario": 3, "idCliente": 1, "idMetodoPagamento": 3, "idProduto": 1, "valorTotal": 379.80, "dataVenda": "01-02-2023" },
             { "id": 6, "idFuncionario": 3, "idCliente": 1, "idMetodoPagamento": 5, "idProduto": 1, "valorTotal": 379.80, "dataVenda": "01-02-2023" },
             { "id": 7, "idFuncionario": 4, "idCliente": 1, "idMetodoPagamento": 5, "idProduto": 1, "valorTotal": 259.90, "dataVenda": "01-02-2023" }
+      ],
+      
+       "pedidos": [
+            { "id": 1, "idGerente": 1, "idFornecedor": 1, "idProduto": 1, "dataPedido": "01-10-2022", "dataEntrega": "01-11-2022" },
+            { "id": 2, "idGerente": 1, "idFornecedor": 2, "idProduto": 1, "dataPedido": "20-10-2022", "dataEntrega": "01-11-2022" },
+            { "id": 3, "idGerente": 2, "idFornecedor": 3, "idProduto": 1, "dataPedido": "22-10-2022", "dataEntrega": "01-11-2022" },
+            { "id": 4, "idGerente": 1, "idFornecedor": 4, "idProduto": 1, "dataPedido": "10-11-2022", "dataEntrega": "01-12-2022" },
+            { "id": 5, "idGerente": 2, "idFornecedor": 5, "idProduto": 1, "dataPedido": "05-12-2022", "dataEntrega": "01-12-2022" },
+            { "id": 6, "idGerente": 2, "idFornecedor": 1, "idProduto": 1, "dataPedido": "01-01-2023", "dataEntrega": "01-01-2023" },
+            { "id": 7, "idGerente": 1, "idFornecedor": 2, "idProduto": 1, "dataPedido": "01-01-2023", "dataEntrega": "01-02-2023" }
       ]
 }
